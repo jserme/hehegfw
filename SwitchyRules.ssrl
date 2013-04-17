@@ -11,11 +11,12 @@
 *://twitter.com/*
 *://cdn.api.twitter.com/*
 *://platform.twitter.com/*
-*://*.blogspot.com/*
+*://*.blogspot.*/*
 *://dean.edwards.name/*
 *://www.youtube.com/*
 *://s.ytimg.com/*
 *://*.ytimg.com/*
+*://*.facebook.com/*
 
 [regexp]
 youtube
