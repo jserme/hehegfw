@@ -26,6 +26,7 @@
 *://*.linkedin.com
 *://*.vimeo.com
 *://*.heroku.com
+*://*.epochtimes.com
 
 [regexp]
 youtube
