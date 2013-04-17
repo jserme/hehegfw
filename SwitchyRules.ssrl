@@ -21,6 +21,7 @@
 *://*.slideshare.net/*
 *://*.google-analytics.com
 *://*.linkedin.com
+*://*.vimeo.com
 
 [regexp]
 youtube
