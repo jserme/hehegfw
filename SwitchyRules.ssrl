@@ -27,6 +27,7 @@
 *://*.vimeo.com
 *://*.heroku.com
 *://*.epochtimes.com
+*://*.wenxuecity.com
 
 [regexp]
 youtube
