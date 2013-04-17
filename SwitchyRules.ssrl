@@ -24,6 +24,7 @@
 *://*.googleapis.com
 *://*.linkedin.com
 *://*.vimeo.com
+*://*.heroku.com
 
 [regexp]
 youtube
