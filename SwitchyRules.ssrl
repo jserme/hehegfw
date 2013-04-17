@@ -20,6 +20,7 @@
 *://*.slideshare.net/*
 *://*.slideshare.net/*
 *://*.google-analytics.com
+*://*.linkedin.com
 
 [regexp]
 youtube
