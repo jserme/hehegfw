@@ -1,0 +1,24 @@
+; Summary: Proxy Switchy!
+; Date: 2013年 4月17日 星期三 11时49分38秒 CST
+; Website: http://bit.ly/proxyswitchy
+
+#BEGIN
+
+[wildcard]
+*://*.google.com
+*://*.gstatic.com
+*://yuiblog.com/*
+*://twitter.com/*
+*://cdn.api.twitter.com/*
+*://platform.twitter.com/*
+*://*.blogspot.com/*
+*://dean.edwards.name/*
+*://www.youtube.com/*
+*://s.ytimg.com/*
+*://*.ytimg.com/*
+
+[regexp]
+youtube
+^https?://sites\.google\.com/
+
+#END
