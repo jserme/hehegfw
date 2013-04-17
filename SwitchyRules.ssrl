@@ -18,6 +18,8 @@
 *://*.ytimg.com/*
 *://*.facebook.com/*
 *://*.slideshare.net/*
+*://*.slideshare.net/*
+*://*.google-analytics.com
 
 [regexp]
 youtube
