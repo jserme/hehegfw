@@ -17,6 +17,7 @@
 *://s.ytimg.com/*
 *://*.ytimg.com/*
 *://*.facebook.com/*
+*://*.slideshare.net/*
 
 [regexp]
 youtube
