@@ -21,10 +21,13 @@
 *://*.slideshare.net/*
 *://*.google-analytics.com
 *://*.googleusercontent.com
+*://*.google.co.jp
 *://*.googleapis.com
 *://*.linkedin.com
 *://*.vimeo.com
 *://*.heroku.com
+*://*.epochtimes.com
+*://*.wenxuecity.com
 
 [regexp]
 youtube
