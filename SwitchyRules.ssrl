@@ -30,6 +30,10 @@
 *://*.wenxuecity.com
 *://*.canjs.us
 *://*.googleapis.com
+*://*.designmoo.com
+*://*.365psd.com
+*://*.getpocket.com
+*://*.webpagetest.org
 
 [regexp]
 youtube
