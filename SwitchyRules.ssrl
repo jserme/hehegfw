@@ -35,6 +35,7 @@
 *://*.getpocket.com
 *://*.chrome.com
 *://*.webpagetest.org
+*://*.firebaseio.com
 
 [regexp]
 youtube
