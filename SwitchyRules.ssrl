@@ -37,6 +37,7 @@
 *://*.webpagetest.org
 *://*.firebaseio.com
 *://*.stackoverflow.com
+*://*.trello.com
 
 [regexp]
 youtube
