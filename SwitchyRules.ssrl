@@ -38,6 +38,7 @@
 *://*.firebaseio.com
 *://*.stackoverflow.com
 *://*.trello.com
+*://*.lesscss.org
 
 [regexp]
 youtube
