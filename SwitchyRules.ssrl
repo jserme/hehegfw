@@ -43,6 +43,7 @@
 *://*.android.com
 *://*.wordpress.com
 *://*.documentup.com
+*://*.fastly.net
 
 [regexp]
 youtube
