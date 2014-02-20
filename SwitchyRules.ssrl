@@ -44,6 +44,7 @@
 *://*.wordpress.com
 *://*.documentup.com
 *://*.fastly.net
+*://*.sstatic.net/
 
 [regexp]
 youtube
