@@ -44,7 +44,8 @@
 *://*.wordpress.com
 *://*.documentup.com
 *://*.fastly.net
-*://*.sstatic.net/
+*://*.sstatic.net
+*://*.nighwatchjs.org
 
 [regexp]
 youtube
