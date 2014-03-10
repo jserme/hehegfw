@@ -46,6 +46,8 @@
 *://*.fastly.net
 *://*.sstatic.net
 *://*.nighwatchjs.org
+*://*.bbc.co.uk
+*://*.udn.com
 
 [regexp]
 youtube
