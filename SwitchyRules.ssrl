@@ -45,6 +45,10 @@
 *://*.documentup.com
 *://*.sstatic.net
 *://*.typekit.net
+*://*.fastly.net
+*://*.nighwatchjs.org
+*://*.bbc.co.uk
+*://*.udn.com
 
 [regexp]
 youtube
