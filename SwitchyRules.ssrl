@@ -43,7 +43,8 @@
 *://*.android.com
 *://*.wordpress.com
 *://*.documentup.com
-*://*.sstatic.net/
+*://*.sstatic.net
+*://*.typekit.net
 
 [regexp]
 youtube
