@@ -50,6 +50,7 @@
 *://*.bbc.co.uk
 *://*.udn.com
 *://*.appspot.com
+*://*.wikipedia.org
 
 [regexp]
 youtube
