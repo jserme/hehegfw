@@ -43,12 +43,15 @@
 *://*.android.com
 *://*.wordpress.com
 *://*.documentup.com
-*://*.fastly.net
 *://*.sstatic.net
+*://*.typekit.net
+*://*.fastly.net
 *://*.nighwatchjs.org
 *://*.bbc.co.uk
 *://*.udn.com
 *://*.dwnews.com
+*://*.appspot.com
+*://*.wikipedia.org
 
 [regexp]
 youtube
