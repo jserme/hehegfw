@@ -49,9 +49,9 @@
 *://*.nighwatchjs.org
 *://*.bbc.co.uk
 *://*.udn.com
-*://*.dwnews.com
 *://*.appspot.com
 *://*.wikipedia.org
+*://*.dwnews.com
 
 [regexp]
 youtube
