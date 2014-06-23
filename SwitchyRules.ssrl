@@ -52,6 +52,9 @@
 *://*.appspot.com
 *://*.wikipedia.org
 *://*.dwnews.com
+*://*.blogger.com
+*://*.feedburner.com
+*://*.blogblog.com
 
 [regexp]
 youtube
