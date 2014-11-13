@@ -57,6 +57,7 @@
 *://*.blogblog.com
 *://*.ntdtv.com
 *://*.twimg.com
+*://t.co
 
 [regexp]
 youtube
