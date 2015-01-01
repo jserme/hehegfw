@@ -5,7 +5,6 @@
 #BEGIN
 
 [wildcard]
-*://*.google.com
 *://*.gstatic.com
 *://yuiblog.com/*
 *://*.twitter.com/*
@@ -33,13 +32,11 @@
 *://*.designmoo.com
 *://*.365psd.com
 *://*.getpocket.com
-*://*.chrome.com
 *://*.webpagetest.org
 *://*.firebaseio.com
 *://*.stackoverflow.com
 *://*.trello.com
 *://*.lesscss.org
-*://*.gmail.com
 *://*.android.com
 *://*.wordpress.com
 *://*.documentup.com
