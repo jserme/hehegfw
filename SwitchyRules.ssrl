@@ -61,6 +61,7 @@
 *://*.gravatar.com
 *://gist.github.com
 *://t.co
+*://*.speakerdeck.com
 
 [regexp]
 youtube
