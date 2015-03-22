@@ -62,6 +62,7 @@
 *://gist.github.com
 *://t.co
 *://*.speakerdeck.com
+*://*.speakerd.s3.amazonaws.com
 
 [regexp]
 youtube
