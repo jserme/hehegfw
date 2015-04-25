@@ -63,6 +63,7 @@
 *://t.co
 *://*.speakerdeck.com
 *://*.speakerd.s3.amazonaws.com
+*://*.html5rocks.com
 
 [regexp]
 youtube
