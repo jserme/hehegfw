@@ -64,6 +64,7 @@
 *://*.speakerdeck.com
 *://*.speakerd.s3.amazonaws.com
 *://*.html5rocks.com
+*://*.2ality.com
 
 [regexp]
 youtube
