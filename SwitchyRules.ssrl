@@ -65,6 +65,8 @@
 *://*.speakerd.s3.amazonaws.com
 *://*.html5rocks.com
 *://*.2ality.com
+*://assets-cdn.github.com
+*://*.githubusercontent.com
 
 [regexp]
 youtube
