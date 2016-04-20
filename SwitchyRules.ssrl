@@ -67,6 +67,7 @@
 *://*.2ality.com
 *://assets-cdn.github.com
 *://*.githubusercontent.com
+*://*.golang.org
 
 [regexp]
 youtube
