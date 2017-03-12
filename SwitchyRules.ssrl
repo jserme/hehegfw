@@ -68,6 +68,7 @@
 *://assets-cdn.github.com
 *://*.githubusercontent.com
 *://*.golang.org
+*://*.googlevideo.com
 
 [regexp]
 youtube
