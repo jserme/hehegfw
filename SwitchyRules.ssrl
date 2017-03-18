@@ -69,6 +69,7 @@
 *://*.githubusercontent.com
 *://*.golang.org
 *://*.googlevideo.com
+*://*.medium.com
 
 [regexp]
 youtube
