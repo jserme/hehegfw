@@ -70,6 +70,7 @@
 *://*.golang.org
 *://*.googlevideo.com
 *://*.medium.com
+*://*.github.com
 
 [regexp]
 youtube
