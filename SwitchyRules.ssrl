@@ -71,6 +71,7 @@
 *://*.googlevideo.com
 *://*.medium.com
 *://*.github.com
+*://*.quora.com
 
 [regexp]
 youtube
