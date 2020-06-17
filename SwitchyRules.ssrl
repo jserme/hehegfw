@@ -59,19 +59,20 @@
 *://*.twimg.com
 *://*.dwnews.net
 *://*.gravatar.com
-*://gist.github.com
 *://t.co
 *://*.speakerdeck.com
 *://*.speakerd.s3.amazonaws.com
 *://*.html5rocks.com
 *://*.2ality.com
-*://assets-cdn.github.com
-*://*.githubusercontent.com
 *://*.golang.org
 *://*.googlevideo.com
 *://*.medium.com
-*://*.github.com
 *://*.quora.com
+*://gist.github.com
+*://assets-cdn.github.com
+*://*.githubusercontent.com
+*://*.github.com
+*://*.githubassets.com
 
 [regexp]
 youtube
